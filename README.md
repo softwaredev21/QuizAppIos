@@ -2,7 +2,8 @@
 This is the source code for my tutorial on Youtube: 
 Create a quiz app for iOS in Swift 4 & Xcode 9:   https://youtu.be/pDHguzqvwbg
 
-# I have already started your work, please discuss on skype. My skype is "Jincowboy"
+# I have already started your work, please discuss on skype.
+# My skype is "Jincowboy" and email is khb2700928039@hotmail.com
 
 I am trying to work on Upwork.com, so I need a european upwork profile.
 If you can provide upwork profile for me, I can build your project for free.
