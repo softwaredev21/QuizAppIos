@@ -1,6 +1,6 @@
 # Quiz-App-iOS
 
-# I have already started your work, please send email to khb2700928039@hotmail.com
+# Please send email to khb2700928039@hotmail.com
 
 I am trying to work on Upwork.com, so I need a european upwork profile.
 If you can provide upwork profile for me, I can build your project for free.
