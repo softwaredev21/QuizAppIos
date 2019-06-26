@@ -1,6 +1,4 @@
 # Quiz-App-iOS
-This is the source code for my tutorial on Youtube: 
-Create a quiz app for iOS in Swift 4 & Xcode 9:   https://youtu.be/pDHguzqvwbg
 
 # I have already started your work, please discuss on skype.
 # My skype is "Jincowboy" and email is khb2700928039@hotmail.com
